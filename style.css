@@ -1,0 +1,22 @@
+.board{
+	width: 600px;
+	height: 600px;
+	background-color: #ffc0cb;
+	margin: auto;
+}
+
+.obj1{
+	width: 100px;
+	height: 100px;
+	background-color: #00FFFF;
+	position: relative;
+	transition: 0.2s;
+}
+
+.obj2{
+	width: 100px;
+	height: 100px;
+	background-color: #EE82EE;
+	position: relative;
+	transition: 0.2s;
+}
